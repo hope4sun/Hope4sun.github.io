@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+Sharing my battle with learning classic Z80 & 68000 Assembler from the Atari St and ZX Spectrum of my teenage years.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
