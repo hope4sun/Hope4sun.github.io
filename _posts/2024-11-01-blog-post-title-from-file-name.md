@@ -1,10 +1,14 @@
 ## Getting started in 68000 Assembler for the Atari St
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Over the past year, I’ve been on a bit of a retro computing journey. It all started with the ZX Spectrum (more posts on that coming soon!), then moved to building a breadboard 8-bit computer, and now here I am with the good old Atari ST. Both the Spectrum and the Atari played a huge role in my teenage years, and diving back into them has been a fun nostalgia trip.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+While I’ve spent many years as a developer, machine code was never something I really dove into. So, I’m starting this journey with a new challenge: learning 68000 assembler to eventually create a simple game for the Atari ST. First things first, I need to get familiar with the basics of 68000 assembler and understand the system.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+I’ve been following various blog posts to help set up a modern development environment and explore the world of emulation. Here’s my current toolset:
+	•	Visual Studio Code – for writing and editing code.
+	•	Hatari Emulator – a fantastic emulator for the Atari ST.
+	•	STeem Emulator – another great option for testing and tinkering.
+
 
 ---
 
